@@ -1,3 +1,3 @@
-# therecipesproject
+# the recipes archive
 
 the recipes archive
