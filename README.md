@@ -1,3 +1,1 @@
-# the recipes archive
-
-the recipes archive
+[purnam](./docs/purnam.md)
